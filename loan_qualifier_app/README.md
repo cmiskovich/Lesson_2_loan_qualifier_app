@@ -12,8 +12,10 @@ Using best practices this file will add new features and enhancements to the loa
 Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
 The following Technologies were used to develop this program:
+
 Python 
     Version 3.9.7
+    
 Terminal
     Version 2.12.5 (444)
 
@@ -50,6 +52,7 @@ In this section, list all the people who contribute to this project. You might w
 Chris Miskovich
 Contact Information:
     Email: cmiskovich@verizon.net
+
     [LinkedIn](https://www.linkedin.com/in/christopher-miskovich-9a61b0234/) 
 
 ---
