@@ -1,15 +1,10 @@
 # Primary application file
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
-
-
 Using best practices this file will add new features and enhancements to the loan qualifier application.  This will give the end user a comma seperate value file (.csv) of qualifying loans that they can share the results in a spreadsheet.
 
 ---
 
 ## Technologies
-
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
 The following Technologies were used to develop this program:
 
@@ -43,11 +38,12 @@ In this section, you should include detailed installation notes containing code 
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 
+![yes_and_loans](..Desktop/Yes_and_loans.mov)
+
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
 
 **Chris Miskovich**
 
