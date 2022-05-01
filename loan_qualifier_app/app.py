@@ -11,6 +11,9 @@ import fire
 import questionary
 from pathlib import Path
 
+import csv
+#Import CSV library
+
 from qualifier.utils.fileio import load_csv
 
 from qualifier.utils.calculators import (
@@ -109,7 +112,41 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-    # YOUR CODE HERE!
+    header = ["Lender"]
+    #Create header that return lenders for qualifying loans
+
+    csvpath = Path("qualifying_loans.csv")
+    #Creates path for new  csv file.
+
+
+
+    user_response = questionary.confirm("Do you want to save the results in a csv file?").ask()
+    if user_response:
+        if len(qualifying_loans)==0:
+            print("Sorry, you did not qualify for any loans.")
+            exit
+        else:
+            save_csv(csvpath, header, qualifying_loans)
+    else:
+        exit 
+
+    
+
+    
+
+def save_csv(csvpath, header, qualifying_loans):
+    print("Writing data to a CSV file...")
+    #Alerts user what is happening while file is being created.
+
+    with open (csvpath, "w") as csvfile:
+    #Creates a CSV writer
+        csvwriter = csv.writer(csvfile, delimiter=",")
+    #Establishes the delimiter as ",".
+        csvwriter.writerow(header)
+    #Adds header to the csv file.
+        #for item in save_qualifying_loans:
+        csvwriter.writerows(qualifying_loans)    
+    #Rights a new row for each value from the daily rate sheet.
 
 
 def run():
@@ -132,3 +169,4 @@ def run():
 
 if __name__ == "__main__":
     fire.Fire(run)
+
