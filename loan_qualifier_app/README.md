@@ -38,7 +38,7 @@ In this section, you should include detailed installation notes containing code 
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 
-![yes_and_loans](..Desktop/Yes_and_loans.mov)
+![yes_and_loans](../Yes_and_loans.mov)
 
 ---
 
