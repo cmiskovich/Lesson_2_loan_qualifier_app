@@ -69,13 +69,32 @@ The code is shown below.
 
 ## Usage
 
-alkfjoeiretoinh
+From the loan_qualifier_app folder type: **python app.py**
 
-![](images/yes_and_loans.mov)
+When prompted for Enter a file path to a rate-sheet (.csv):  type the following **./data/daily_rate_sheet.csv**
 
-![](images/yes_and_no_loans.mov)
+![](images/app_rate_sheet.png)
 
-![](images/no_and_loans.mov)
+Next enter your credit score, monthly debt, monthly income, desired loan amount, and home value.
+
+![](images/Inputs.png)
+
+You are prompted if you want to save the results type "Y" for yes and "N" for no.
+
+If you type "Y" and have qualifying loans a csv file will be created for your qualifying loans and exit the application.
+
+![](images/yes_loans.png)
+
+If you type "Y" and do not have qualifying loans a message will appear saying "Sorry, you did not qualify for any loans." and exit the application.
+
+![](images/Sorry.png)
+
+IF you type "N" the application will exit.
+
+![](images/NO.png)
+
+
+
 
 
 
