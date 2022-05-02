@@ -46,8 +46,11 @@ First part of improving the application was adding a function labeled save_csv t
 
 The next part was to create a function to save the data for in a function for the qualifying loans.  We start with a header and the csvpath.
 Then using qustionary the application will ask the user if they want to save the results in a csv file.  Using if/else statements we come up with 3 possible outcomes.
+
     1. The user says yes, has qualifying loans and wants a file of the loans. The file will be created and exit the application.
+
     2. The user says yes, does not have any qualifying loans and a message appears ("Sorry, you did not qualify for any loans.") and exit application.
+
     3. The user says no, and exit the application.
 
 These outcomes are based on the user story and the acceptace criteria.
@@ -66,7 +69,9 @@ The code is shown below.
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+alkfjoeiretoinh
+
+![](images/yes_and_loans.mov)
 
 
 
