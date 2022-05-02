@@ -73,6 +73,10 @@ alkfjoeiretoinh
 
 ![](images/yes_and_loans.mov)
 
+![](images/yes_and_no_loans.mov)
+
+![](images/no_and_loans.mov)
+
 
 
 ---
