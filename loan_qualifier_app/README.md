@@ -115,4 +115,4 @@ Email: cmiskovich@verizon.net
 
 ## License
 
-![MIT](images/License.txt)
+[MIT](images/License.txt)
