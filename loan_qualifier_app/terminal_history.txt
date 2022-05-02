@@ -1,0 +1,1010 @@
+   50  clear
+   51  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   52  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   53  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   54  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   55  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   56  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   57  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   58  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   59  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   60  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   61  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   62  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   63  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   64  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   65  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   66  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   67  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   68  clear
+   69  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   70  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   71  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   72  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   73  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   74  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   75  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   76  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   77  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   78  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   79  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   80  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   81  clear
+   82  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   83  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   84  clear
+   85  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   86  cd Starter_Code
+   87  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   88  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   89  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   90  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   91  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   92  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   93  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   94  clear
+   95  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   96  clear
+   97  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   98  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Starter_Code/loan_analyzer.py
+   99  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  100  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  101  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  102  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  103  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  104  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  105  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  106  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  107  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  108  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  109  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  110  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  111  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  112  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  113  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  114  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  115  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  116  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Python_project/M2L1.PY
+  117  CLEAR
+  118  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  119  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  120  clear
+  121  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  122  /usr/local/bin/python3 "/Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Loan_Qualifier_Financial_Calculations 2/Unsolved/app.py"
+  123  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  124  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  125  clear
+  126  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  127  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  128  clear
+  129  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  130  clear
+  131  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  132  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  133  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  134  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  135  ls
+  136  cd ..
+  137  cd Module_2
+  138  cd 01_Loan_Qualifier_Financial_Calculations
+  139  cd ..
+  140  cd 02_Loan_Qualifier_Filtering_Data
+  141  cd unsolved
+  142  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  143  cd ..
+  144  cd ..
+  145  cd 01
+  146  cd 01_Loan_Qualifier_Financial_Calculations
+  147  cd unsolved
+  148  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  149  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application/utils/fileio.py
+  150  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application/app.py
+  151  cd ..
+  152  cd ..
+  153  cd 01_Modularize_Your_Loan_Qualifier_Application
+  154  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application/app.py
+  155  ls
+  156  cd utils
+  157  ls
+  158  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application/app.py
+  159  cd ..
+  160  clear
+  161  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application/app.py
+  162  python app.py
+  163  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application/app.py
+  164  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application/app.py
+  165  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application/app.py
+  166  clear
+  167  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application/app.py
+  168  cd ..
+  169  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  170  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  171  cd unsolved
+  172  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  173  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  174  cd ..
+  175  cd solved
+  176  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  177  clear
+  178  cd ..
+  179  cd ..
+  180  cd ..
+  181  cd gwrepo
+  182  cd GWU-VIRT-FIN-PT-04-2022-U-B
+  183  CD Live-Lesson-Plans
+  184  cd Live-Lesson-Plans
+  185  clear
+  186  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/gwrepo/GWU-VIRT-FIN-PT-04-2022-U-B/Live-Lesson-Plans/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  187  clear
+  188  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/gwrepo/GWU-VIRT-FIN-PT-04-2022-U-B/Live-Lesson-Plans/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  189  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/gwrepo/GWU-VIRT-FIN-PT-04-2022-U-B/Live-Lesson-Plans/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  190  clear
+  191  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/gwrepo/GWU-VIRT-FIN-PT-04-2022-U-B/Live-Lesson-Plans/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  192  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/gwrepo/GWU-VIRT-FIN-PT-04-2022-U-B/Live-Lesson-Plans/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  193  ls
+  194  cd 02-Financial-Applications-Python
+  195  ls
+  196  cd 1
+  197  ls
+  198  cd Activities
+  199  cd 05_Stu_ATM_Modularization
+  200  clear
+  201  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/gwrepo/GWU-VIRT-FIN-PT-04-2022-U-B/Live-Lesson-Plans/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  202  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/cli.py
+  203  clear
+  204  conda activate dev
+  205  pip import fire
+  206  pip install fire
+  207  python
+  208  pip install fire
+  209  clear
+  210  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/cli.py
+  211  clear
+  212  conda activate dev
+  213  pip install fire
+  214  clear
+  215  pip -v
+  216  conda activate dev
+  217  pip -v
+  218  pip freeze
+  219  pip install fire
+  220  pip install questionary
+  221  CD ..
+  222  cd ..
+  223  cd ..
+  224  mkdir Module 1
+  225  cd Module
+  226  mv Module Module_1
+  227  cd ..
+  228  mv Module Module_1
+  229  cd Module_1
+  230  mkdir Module_2
+  231  deldir Module_2
+  232  cd ..
+  233  mkdir Module_2
+  234  ls
+  235  cd gwrepo
+  236  git clone git@gw.bootcampcontent.com:GW-Coding-Boot-Camp/GWU-VIRT-FIN-PT-04-2022-U-B.git
+  237  ls
+  238  clear
+  239  pwd
+  240  git status 
+  241  ls
+  242  cd GWU-VIRT-FIN-PT-04-2022-U-B
+  243  git status
+  244  git pull
+  245  ls
+  246  cd .git
+  247  open config
+  248  cd ..
+  249  eval $(ssh-agent -s)
+  250  ssh-add ~/.ssh/id_rsa
+  251  ssh-add ~/.ssh/id_rsa
+  252  git pull
+  253  git status
+  254  git stash
+  255  ls
+  256  cd 02-Live-Lesson-Plans
+  257  ls
+  258  cd ..
+  259  git checkout
+  260  git pull
+  261  ls
+  262  cd Live-Lesson-Plans
+  263  ls
+  264  code . 
+  265  clear
+  266  cd ..
+  267  git pull
+  268  ls
+  269  pwd
+  270  cd
+  271  cd desktop
+  272  cd FINTEC-Workspace
+  273  ls
+  274  cd Module_2
+  275  ls
+  276  pip install fire
+  277  pip install fire
+  278  clear
+  279  pip install fire
+  280  import fire
+  281  clear
+  282  install fire
+  283  pip install fire
+  284  pip install fire
+  285   /usr/bin/env /usr/local/bin/python3 /Users/chrismiskovich/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49461 -- /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/cli.py 
+  286  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/cli.py
+  287  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/cli.py
+  288  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/cli.py
+  289  clear
+  290  pip install fire
+  291  pip import fire
+  292  pip install fire
+  293  activate conda dev
+  294  conda activate dev
+  295  clear
+  296  pip install fire
+  297  pythong
+  298  python
+  299  clear
+  300  clear
+  301  conda active dev
+  302  yes
+  303  pip install fire
+  304  clear
+  305  conda active dev
+  306  activate dev
+  307  activate conda dev
+  308  pip install fire
+  309  clear
+  310  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/cli.py
+  311  python
+  312  clear
+  313  python
+  314  clear
+  315  pip install fire
+  316  does fire work
+  317  fire
+  318  fire
+  319  run fire
+  320  python 
+  321  run fire
+  322  pip install fire
+  323  clear
+  324  /usr/local/bin/python3 /Users/chrismiskovich/Desktop/FINTEC-Workspace/Module_2/cli.py
+  325  python fire.py
+  326  clear
+  327  pip install fire
+  328  clear
+  329  pip install fire
+  330  clear
+  331  pip install fire
+  332  conda activate dev
+  333  pip install fire
+  334  clear
+  335  pip inatLL fire
+  336  pip install fire
+  337  conda activate dev
+  338  pip install fire
+  339  clear
+  340  pip install fire
+  341  pip install Fire
+  342  python
+  343  clear
+  344  pip install fire
+  345  clear
+  346  python
+  347  python fire.py
+  348  python 
+  349  clear
+  350  pip install fire
+  351  pip install questionary
+  352  pip install fire
+  353  clear
+  354  pip install fire
+  355  pip install questionary
+  356  python dialog.py
+  357  python cli.py
+  358  python cli.py
+  359  python cli.py --pants=True
+  360  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  361  cd unsolved
+  362  python app.py
+  363  python app.py
+  364  python app.py
+  365  python app.py --credit_score=740
+  366  python app.py
+  367  python app.py --credit_score=700 --income=45000 --debt=4000
+  368  python app.py --credit_score670 --income=75000 --debt=25000
+  369  python app.py --credit_score=670 --income=75000 --debt=25000
+  370  python app.py --credit_score=720 --income=32000 --debt=0
+  371  python M2L3.py
+  372  ls
+  373  cd ..
+  374  cd ..
+  375  python M2L3.py
+  376  ls
+  377  python M2L3.py
+  378  cd 02_A
+  379  cd 02_Adding_questionary_to_Loan_Qualifier
+  380  cd unsolved
+  381  python app.py
+  382  python app.py  --credit_score=700 --income=82000 --debt=5500 --home_value=175000
+  383  cd ..
+  384  cd solved
+  385  python app.py  --credit_score=700 --income=82000 --debt=5500 --home_value=175000
+  386  python app.py
+  387  cd ..
+  388  cd unsolved
+  389  python app.py
+  390  python app.py
+  391  python app.py]
+  392  ls
+  393  python app.py
+  394  python app.py
+  395  git config list
+  396  git config --list
+  397  cd ..
+  398  cd ..
+  399  cd ..
+  400  cd ..
+  401  cd FINTEC-Workspace
+  402  LS
+  403  git clone git@github.com:cmiskovich/M2L4.git
+  404  ls
+  405  git checkout
+  406  git clone git@github.com:cmiskovich/M2L4.git
+  407  conda activate dev
+  408  git clone git@github.com:cmiskovich/M2L4.git
+  409  cd gwrepo
+  410  git clone git@github.com:cmiskovich/M2L4.git
+  411  clear
+  412  git config --list
+  413  git clone git@github.com:cmiskovich/M2L4.git
+  414  ls
+  415  cd FINTEC
+  416  LS
+  417  CD ..
+  418  cd ..
+  419  cd GWU-VIRT-FIN-PT-04-2022-U-B
+  420  git pull
+  421  git checkout
+  422  git pull
+  423  cd ..
+  424  git clone git@github.com:cmiskovich/M2L4.git
+  425  git config
+  426  clear
+  427  git clone git@github.com:cmiskovich/M2L4.git
+  428  ssh -T git@codebasehq.com
+  429  ssh -T git@codebasehq.com
+  430  ssh -T git@codebasehq.com
+  431  ssh -T git@codebasehq.com
+  432  git ssh
+  433  git_ssh
+  434  git clone git@github.com:cmiskovich/M2L4.git
+  435  git pull
+  436  git checkout
+  437  cd GW
+  438  CD GWU-VIRT-FIN-PT-04-2022-U-B
+  439  CD GWU-VIRT-FIN-PT-04-2022-U-B
+  440  cd GWU-VIRT-FIN-PT-04-2022-U-B
+  441  git pull
+  442  git checkout
+  443  clear
+  444  ls –al ~/.ssh
+  445  ssh-keygen –t rsa –b 4096 –C "cmiskovich@verizon.net"
+  446  ssh-keygen -t rsa -b 4096 "cmiskovich@verizon.net"
+  447  clear
+  448  ssh-keygen –t rsa –b 4096 –C "cmiskovich@verizon.net"
+  449  pbcopy < ~/.ssh/id_rsa.pub
+  450  ssh –T git@github.com
+  451  ssh -T git@github.com
+  452  clear
+  453  ssh -T git@github.com
+  454  ssh -vvvv git@gitlab.com
+  455  ssh -vvvv git@gitlab.com
+  456  clear
+  457  ssh -keygen
+  458  ssh-keygen
+  459  ~/.ssh/config
+  460  cd ..
+  461  cd ..
+  462  ssh -T git@github.com
+  463  pbcopy < ~/.ssh/id_rsa.pub
+  464  git pull
+  465  cd gwrepo
+  466  cd GWU-VIRT-FIN-PT-04-2022-U-B
+  467  git checkout
+  468  git pull
+  469  clear
+  470  git clone git@github.com:cmiskovich/M2L4.git
+  471  cd ..
+  472  ls -al ~/.ssh
+  473  ssh -T git@github.com
+  474  git clone git@github.com:cmiskovich/M2L4.git
+  475  cd .ssh
+  476  cd ./ssh
+  477  cd ..
+  478  cd
+  479  cd .ssh
+  480  ls
+  481  open id_rsa.pub
+  482  cd ..
+  483  git clone git@github.com:cmiskovich/M2L4.git
+  484  cd .ssh
+  485  code id_rsa.pub
+  486  ssh -T git@github.com
+  487  rm -r id_ed25519.pub
+  488  ls
+  489  cd ..
+  490  eval "$(ssh-agent -s)"
+  491  ssh-add -l -E sha256
+  492  gitlab
+  493  ls
+  494  cd Desktop
+  495  ls
+  496  cd FINTEC-Workspace
+  497  cd gwrepo
+  498  cd GWU-VIRT-FIN-PT-04-2022-U-B
+  499  git pull
+  500  git checkout
+  501  cd..
+  502  conda create -n atmdev python=3.7anaconda
+  503  conda activate atmdev
+  504  cd..
+  505  cd
+  506  conda create -n atmdev python=3.7anaconda
+  507  conda activate atmdev
+  508  clear
+  509  conda create -n atmdev python=3.7anaconda
+  510  conda create -n atmdev python=3.7 anaconda
+  511  conda activate atmdev
+  512  pip install -r requirements.txt
+  513  cd Desktop
+  514  cd FINTEC-Workspace
+  515  cd gw
+  516  cd gwrepo
+  517  cd GWU-VIRT-FIN-PT-04-2022-U-B
+  518  CD Live-Lesson-Plans
+  519  cd Live-Lesson-Plans
+  520  cd 02-Financial-Applications-Python
+  521  cd 2
+  522  ls
+  523  cd Activities
+  524  cd 02_Stu_Build_ATM_Functions
+  525  pip install -r requirements.txt
+  526  cd unsolved
+  527  pip install -r requirements.txt
+  528  cd .ssh
+  529  cd
+  530  cd .ssh
+  531  rm  -r .ssh
+  532  ls
+  533  clear
+  534  rm  -r .ssh
+  535  ls
+  536  rm  -r ssh
+  537  clear
+  538  rm  -r .ssh
+  539  cd
+  540  rm  -r .ssh
+  541  cd .ssh
+  542  clear
+  543  ls –al ~/.ssh
+  544  ssh-keygen –t rsa –b 4096 –C "cmiskovich@verizon.net"
+  545  $ ssh-keygen -t ed25519 -C "cmiskovich@verizon.net"
+  546  $ ssh-keygen -t ed25519 -C "cmiskovich@verizon.net"
+  547  $ ssh-keygen -t ed25519 -C "cmiskovich@verizon.net"
+  548  $ ls -al ~/.ssh
+  549  git
+  550  $ ssh-keygen -t ed25519 -C "cmiskovich@verizon.net"
+  551  cd .ssh
+  552  clear
+  553  ssh-keygen -t rsa -b 4096 -C "cmiskovich@verizon.net"
+  554  eval "$(ssh-agent –s)"
+  555  eval "$(ssh-agent -s)"
+  556  ssh-add ~/.ssh/id_rsa
+  557  pbcopy < ~/.ssh/id_rsa.pub
+  558  ssh -T git@github.com
+  559  pbcopy < ~/.ssh/id_rsa.pub
+  560  git clone git@github.com:cmiskovich/M2L4.git
+  561  cd Desktop
+  562  cd FIN
+  563  cd FINTEC-Workspace
+  564  cd gw
+  565  cd gwrepo
+  566  git clone git@github.com:cmiskovich/M2L4.git
+  567  ls
+  568  clear
+  569  ls
+  570  ls
+  571  cd ..
+  572  ls
+  573  cd Mondule_2
+  574  cd Module_2
+  575  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  576  python app.py
+  577  ls
+  578  cd unsolved
+  579  python app.py
+  580  python app.py --credit_score=680 --debt=4000 --income=8000
+  581  cd ..
+  582  cd ..
+  583  pyuthon M2L3.py
+  584  ls
+  585  python M2L3.py
+  586  python M2L3.py
+  587  cd 02_Adding_questionary_to_Loan_Qualifier
+  588  cd unsolved
+  589  python app.py
+  590  ls
+  591   python app.py
+  592  cd ..
+  593  cd ..
+  594  cd ..
+  595  ls
+  596  cd gwrep
+  597  cd gwrepo
+  598  ls 
+  599  cd M2L4
+  600  ls
+  601  git status
+  602  git add README.md
+  603  git status
+  604  touch new_file.txt
+  605  ls
+  606  git status
+  607  git add new_file.txt
+  608  git status
+  609  git commit -m "Update files for M2L4"
+  610  git status
+  611  git push
+  612  git status
+  613  git add README.md
+  614  git push README.md
+  615  git status
+  616  git commit -m "update fonts"
+  617  touch README2.md
+  618  ls
+  619  git status
+  620  add .
+  621  add README2.md
+  622  GIT ADD README2.md
+  623  git status
+  624  git add README2.md
+  625  git status
+  626  git commit -m "changes"
+  627  git push
+  628  cd ..
+  629  cd GWU-VIRT-FIN-PT-04-2022-U-B
+  630  git pull
+  631  cd ..
+  632  ls
+  633  cd FINTEC
+  634  LS
+  635  git status
+  636  cd ..
+  637  cd M2L4
+  638  cd ..
+  639  git clone git@github.com:cmiskovich/LESSON_1_ASSIGNMENT.git
+  640  cd LESSON_1_ASSIGNMENT
+  641  git pull
+  642  ls
+  643  git pull
+  644  python loan_analyzer.py
+  645  ls
+  646  git status
+  647  git status
+  648  git pull
+  649  git status
+  650  git add -A
+  651  git commit -m "readme update"
+  652  git push
+  653  git status
+  654  git add -A
+  655  git commit -m "update readme"
+  656  git push
+  657  git add -A
+  658  git commit -m "ur"
+  659  git status
+  660  git push
+  661  git add -A
+  662  git commit -m "update readme"
+  663  git push
+  664  git add -A
+  665  git commit -m "update readme"
+  666  git push
+  667  git add -A
+  668  git commit -m "update readme"
+  669  git push
+  670  git add -A
+  671  git commit -m "update readme"
+  672  git push
+  673  git add -A
+  674  git commit -m "update readme"
+  675  git push
+  676  git add -A
+  677  git commit -m "update readme"
+  678  git push
+  679  git add -A
+  680  git commit -m "update readme"
+  681  git pkush\\ngit push
+  682  git push
+  683  git add -A
+  684  git commit -m "update readme"
+  685  git push
+  686  git pull
+  687  python loan_analyzer.py
+  688  add -A
+  689  git add -A
+  690  git commit -m "update readme"
+  691  git push
+  692  git pull
+  693  python loan_analyzer.py
+  694  git add -A
+  695  git commit -m "update readme"
+  696  git push
+  697  clear
+  698   conda activate dev
+  699  conda list pndas
+  700  conda list jupyterlab
+  701  conda list pandas
+  702  -m ipykernal install --user --name dev --display --name "Python (dev)"
+  703  python -m ipykernal install --user --name dev --display --name "Python (dev)"
+  704  cd
+  705  python -m ipykernal install --user --name dev --display --name "Python (dev)"
+  706  python -m ipykernel install --user --name dev --display --name "Python (dev)"
+  707  juptyer lab
+  708  python -m ipykernel install --user --name dev --display --name "Python (dev)"
+  709  clear
+  710  conda list pandas
+  711  ]conda list jupyterlab
+  712  clear
+  713  conda list pandas
+  714  conda list jupyter
+  715  clear
+  716  conda list pandas
+  717  conda list jupyterlab
+  718  python -m ipykernel install --user --name dev --display --name "Python (dev)"
+  719  jupyter lab
+  720  conda deactivate
+  721  jupyter labs
+  722  jupyter lab
+  723  activate conda dev
+  724  activate conda dev
+  725  activat dev
+  726  activate conda
+  727  activate condadev
+  728  activate dev
+  729  conda dev
+  730  activate conda env
+  731  conda env
+  732  conda activate
+  733  conda activate dev
+  734  jupyter lab
+  735  jupyter lab
+  736  jupyter lab
+  737  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  738  jupyter lab
+  739  cd desktop
+  740  ls
+  741  cd FINTEC-Workspace
+  742  LS
+  743  CD gwrepo
+  744  cd gwrepo
+  745  cd GW
+  746  ls
+  747  cd GWU-VIRT-FIN-PT-04-2022-U-B
+  748  git pull
+  749  cd ..
+  750  cd ..
+  751  jupyter lab
+  752  jupyter lab
+  753  exit
+  754  ls
+  755  cd Starter_Code
+  756  python app.py
+  757  ls
+  758  python loan_qualifier_app
+  759  cd ..
+  760  cd gwrepo
+  761  ls
+  762  cd Lesson_2
+  763  git pull
+  764  cd Lesson_2
+  765  cd Lesson_2_loan_qualifier_app
+  766  git pull
+  767  ls
+  768  python loan_qualifier_app
+  769  python loan_qualifier_app
+  770  cd ..
+  771  ls
+  772  cd Lesson_2_loan_qualifier_app
+  773  cd ..
+  774  cd GWU-VIRT-FIN-PT-04-2022-U-B
+  775  LS
+  776  cd ..
+  777  cd Lesson_2_loan_qualifier_app
+  778  ls
+  779  python loan_qualifier_app
+  780  python loan_qualifier_app
+  781  clear
+  782  python loan_qualifier_app
+  783  python loan_qualifier_app
+  784  python loan_qualifier_app 
+  785  python loan_qualifier_app
+  786  ls
+  787  cd loan_qualifier_app
+  788  python app.py
+  789  python app.py
+  790  ]ls
+  791  ls
+  792  cd ..
+  793  cd ..
+  794  cd ..
+  795  ls
+  796  cd Starter_Code
+  797  ls
+  798  cd loan_qualifier_app
+  799  ls
+  800  python app.py
+  801  cd ..
+  802  cd ..
+  803  cd gwrepo
+  804  cd Lesson_2_loan_qualifier_app
+  805  ls
+  806  cd loan_qualifier_app
+  807  python app.py
+  808  python app.py
+  809  python app.py
+  810  python
+  811  python
+  812  cd ..
+  813  cd ..
+  814  cd Lesson_2_loan_qualifier_app
+  815  git push
+  816  git add all -A
+  817  ls
+  818  cd loan_qualifier_app
+  819  ls
+  820  git add README.md
+  821  git commit README.md
+  822  cd Desktop
+  823  cd FINTEC-Workspace
+  824  cd gw
+  825  cd gwrepo
+  826  cd Lesson_2_loan_qualifier_app
+  827  ls
+  828  git push
+  829  cd loan_qualifier_app
+  830  ls
+  831  git push
+  832  git add README.md
+  833  git commit README.md
+  834  cd Desk
+  835  cd Desktop
+  836  cd FINTEC-Workspace
+  837  cd gw
+  838  cd gwrepo
+  839  cd Lesson_2_loan_qualifier_app
+  840  cd loan_qualifier_app
+  841  git commit -m "update files"
+  842  git push
+  843  git add README.md
+  844  git commit README.md -m "update changes"
+  845  git push
+  846  git add README.md
+  847  git commit README.md -m "update changes"
+  848  git push
+  849  git add README.md
+  850  git commit README.md =m "update changes"
+  851  git commit README.md -m "update changes"
+  852  git push
+  853  ls
+  854  clear
+  855  python app.py
+  856  python app.py
+  857  clear
+  858  python app.py
+  859  ls
+  860  open qualifying_loans.csv
+  861  ls
+  862  python app.py
+  863  ls
+  864  git pull
+  865  git pull
+  866  python app.py
+  867  ls
+  868  rm qualifying_loans.csv
+  869  ls
+  870  pyhton app.py
+  871  ls
+  872  python app.py
+  873  ls
+  874  python app.py
+  875  ls
+  876  view qualifying_loans.csv
+  877  git commit -m "update"
+  878  git push
+  879  git add -A
+  880  giy commit -m "update"
+  881  git commit -m "update"
+  882  git push
+  883  git commit -m "update"
+  884  git rm Import_csv_library.png
+  885  git push
+  886  git commit -a
+  887  git push
+  888  cd Desktop
+  889  cd FINTEC-Workspace
+  890  cd gwrepo
+  891  cd Lesson_2_loan_qualifier_app
+  892  git push
+  893  ls
+  894  git commit
+  895  git rm Import_csv_library.png
+  896  git rm Screen Shot 2022-05-01 at 8.23.29 PM.png
+  897  git rm no_and_loans.mov
+  898  git rm yes_and_loans.mov
+  899  git rm yes_and_no_loans.mov
+  900  git commit -m "update"
+  901  git push
+  902  ls
+  903  cd loan_qualifier_app
+  904  ls
+  905  git add README.md
+  906  git commit -m "update"
+  907  git push
+  908  git pull
+  909  git pull
+  910  git config pull.rebase true
+  911  git pull
+  912  git push
+  913  git pull
+  914  git commit -m "update"
+  915  git pull
+  916  git pull
+  917  git stash
+  918  git pull
+  919  git commit -m "update"
+  920  git push
+  921  git add README.md
+  922  git commit README.md -m "update"
+  923  git push
+  924  ls
+  925  mkdir images
+  926  ls
+  927  git commit -m "update"
+  928  ls
+  929  cd ..
+  930  git add
+  931  git add -A
+  932  git commit -m "update"
+  933  git push
+  934  ls
+  935  cd loan_qualifier_app
+  936  ls
+  937  git pull
+  938  ls
+  939  git rm .gitignore
+  940  git commit -m "update"
+  941  git push
+  942  git add images
+  943  git commit -m "update"
+  944  git push
+  945  cd images
+  946  ls
+  947  git add 
+  948  git add Import_csv_library.png
+  949  git commit -m "update"
+  950  git push
+  951  git pull
+  952  git push
+  953  cd ..
+  954  git pull
+  955  git commit -m "update"
+  956  git add README.md
+  957  git push
+  958  git add README.md
+  959  git commit README.md
+  960  cd Desktop
+  961  cd FINTEC-Workspace
+  962  cd gwrepo
+  963  cd Lesson_2_loan_qualifier_app
+  964  cd loan_qualifier_app
+  965  git push
+  966  git add README.md
+  967  git commit README.md
+  968  cd Desktop
+  969  cd FINTEC-Workspace
+  970  cd gw
+  971  cd gwrepo
+  972  cd Lesson_2_loan_qualifier_app
+  973  cd loan_qualifier_app
+  974  cd ..
+  975  git commit -m "update"
+  976  git push
+  977  git add
+  978  cd loan_qualifier_app
+  979  git add README.md
+  980  git commit README.md -m "update"
+  981  git push
+  982  cd images
+  983  ls
+  984  git add -A
+  985  git commit -m "update"
+  986  git push
+  987  git add -A
+  988  git commit -m "update"
+  989  git push
+  990  ls
+  991  cd ..
+  992  ls
+  993  python app.py
+  994  git add README.md
+  995  git commit README.md -m "update"
+  996  git push
+  997  cd images
+  998  ls
+  999  git add yes_and_loans.mov
+ 1000  git commit yes_and_loans.mov
+ 1001  cd Desktop
+ 1002  cd FINTEC-Workspace
+ 1003  cd gwrepo
+ 1004  cd Lesson_2_loan_qualifier_app
+ 1005  cd l
+ 1006  cd loan_qualifier_app
+ 1007  cd images
+ 1008  ls
+ 1009  git commit yes_and_loans.mov -m "update"
+ 1010  git add yes_and_no_loans.mov
+ 1011  git commit yes_and_no_loans.mov =m "update"
+ 1012  git commit yes_and_no_loans.mov -m "update"
+ 1013  git add no_and_loans.mov
+ 1014  git commit no_and_loans.mov -m "update"
+ 1015  git push
+ 1016  cd ..
+ 1017  git add README.md
+ 1018  git commit README.md -m "update"
+ 1019  git push
+ 1020  git add README.md
+ 1021  git commit README.md -m "update"
+ 1022  git push
+ 1023  clear
+ 1024  python app.py
+ 1025  ls
+ 1026  python app.py
+ 1027  python app.py
+ 1028  git add -A
+ 1029  git commit -m "update"
+ 1030  git push
+ 1031  git pull
+ 1032  git rm *.mov
+ 1033  git pull
+ 1034  git commit -m "update"
+ 1035  touch .gitignore
+ 1036  git commit -a -m "update"
+ 1037  git pull
+ 1038  git push
+ 1039  ls
+ 1040  git add license.txt
+ 1041  git commit license.txt -m "update"
+ 1042  rm lice
+ 1043  git push
+ 1044  ls
+ 1045  git commit License.txt -m "update"
+ 1046  git pull
+ 1047  ls
+ 1048  git add -A
+ 1049  git commit -A "update"
+ 1050  git commit -a "update"
+ 1051  git commit -a -m "update"
+ 1052  git push
+ 1053  git add -A
+ 1054  git commit -a -m "update"
+ 1055  git push
+ 1056  git add -A
+ 1057  git commit -a -m "update"
+ 1058  git push
+ 1059  clear
