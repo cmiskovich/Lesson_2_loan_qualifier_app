@@ -31,7 +31,7 @@ Visual Studio Code
 First part of improving the application was adding a function labeled save_csv this will save the qualifying loan data as a comma seperated value file (.csv).
     In oder to create this we first had to import the csv libray into the application:
 
-    ![import_csv](file:///Users/chrismiskovich/Desktop/FINTEC-Workspace/gwrepo/Import_csv_library.png)
+    ![import_csv](images/Import_csv_library.png)
 
 
 
