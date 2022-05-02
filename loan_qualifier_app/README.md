@@ -34,6 +34,17 @@ First part of improving the application was adding a function labeled save_csv t
 ![](images/Import_csv_library.png)
 
 
+    Next we need to create a function and save it as save_csv. In order to do that we have to identify the variables needed to use in the function for this I used csvpath, header, and qualifying loans.  I then wrote a print line to let the end user know the data is being written to a csv file.  Then using the code with open you sill create a csv writer that is deliminated with a ",", populated with the header from the daily rate sheet, and rows from the qualifying loans for the end user.  The code is captured in the following image.
+
+![](images/Save_CSV.png)
+
+    I used the header and csvpath variables and they are shown in the screen shot below.
+
+
+
+
+
+
 
 ---
 
