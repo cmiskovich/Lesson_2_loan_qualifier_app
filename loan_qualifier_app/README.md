@@ -28,7 +28,10 @@ Visual Studio Code
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+First part of improving the application was adding a function labeled save_csv this will save the qualifying loan data as a comma seperated value file (.csv).
+    In oder to create this we first had to import the csv libray into the application:
+
+    ![import_csv](import_csv_library.png)
 
 
 
@@ -38,7 +41,7 @@ In this section, you should include detailed installation notes containing code 
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 
-![yes_and_loans](../Yes_and_loans.mov)
+
 
 ---
 
